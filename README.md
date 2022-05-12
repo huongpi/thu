@@ -208,7 +208,7 @@ kolla-ansible -i all-in-one post-deploy
 
 ---
 
-**2. Post deployment **
+**2. Post deployment**
 
 - Install Openstack Command Line Interface:
 
